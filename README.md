@@ -5,7 +5,7 @@
 
 <!-- Animated Greeting -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+%5BYour+Name%5D;%F0%9F%9A%80+Full+Stack+Developer+%7C+Open+Source+Enthusiast;%F0%9F%8C%9F+Turning+Coffee+into+Code+Since+2018" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%91%8B+Aloha!+I'm+%5BAbu+Nayeem%5D;%F0%9F%9A%80+Junior+Software+Developer+%7C+NOC+Specialist+(Level-2)" alt="Typing SVG" />
 </a>
 
 <!-- Animated Snake -->
